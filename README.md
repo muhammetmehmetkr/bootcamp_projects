@@ -14,3 +14,7 @@ Student note system and Netflix data set analysis
 --> Kullanici menuden farkli degerler girerse try/except fonksiyonlari ile durum kontrol altina alinmistir.
 
 --> Kullanicinin girdigi bilgiler ilk once csv dosya formatina yazilir ve kaydedilir daha sonra yazdirmak isterse veriler csv formatindan dataframe` e donusturulur ve  son olarak veriler excel tablosuna donusturulur ve dosya dizininde iki tane dosya olusur. Bunlardan bir tanesi csv dosyasi verileri kaydettigimiz digeri ise excel dosyasidir. Excel dosyasi sutunlari olusturulmustur ve veriler tabloya sirasi ile yazdirilmistir.
+
+2. Proje icin:
+
+Data set 2. proje dosyasi ile ayni dizinde olmalidir, aksi takdirde kodlar dosyayi okuyamayacaktir.
